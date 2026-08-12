@@ -1,9 +1,8 @@
 
----
+
 
 # `architecture.md`
 
-```markdown
 # Day 12 – HisabDo AI Financial Assistant Architecture
 
 ## 1. Overview
