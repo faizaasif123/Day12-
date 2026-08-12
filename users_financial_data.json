@@ -1,0 +1,97 @@
+{
+    "users": [
+        {
+            "user_id": "USR001",
+            "name": "Ahmed Khan",
+            "currency": "PKR",
+
+            "summary": {
+                "monthly_income": 150000,
+                "monthly_expenses": 62000,
+                "receivables": 85000,
+                "payables": 30000
+            },
+
+            "customers": [
+                {
+                    "name": "Ali Traders",
+                    "balance": 45000
+                },
+                {
+                    "name": "Sara Enterprises",
+                    "balance": 25000
+                },
+                {
+                    "name": "Bilal Store",
+                    "balance": 15000
+                }
+            ],
+
+            "expenses": [
+                {
+                    "category": "Transport",
+                    "amount": 12000
+                },
+                {
+                    "category": "Utilities",
+                    "amount": 15000
+                },
+                {
+                    "category": "Food",
+                    "amount": 18000
+                },
+                {
+                    "category": "Shopping",
+                    "amount": 17000
+                }
+            ]
+        },
+
+        {
+            "user_id": "USR002",
+            "name": "Fatima Ahmed",
+            "currency": "PKR",
+
+            "summary": {
+                "monthly_income": 120000,
+                "monthly_expenses": 48000,
+                "receivables": 55000,
+                "payables": 18000
+            },
+
+            "customers": [
+                {
+                    "name": "Hassan",
+                    "balance": 30000
+                },
+                {
+                    "name": "Noor",
+                    "balance": 15000
+                },
+                {
+                    "name": "Usman",
+                    "balance": 10000
+                }
+            ],
+
+            "expenses": [
+                {
+                    "category": "Transport",
+                    "amount": 8000
+                },
+                {
+                    "category": "Utilities",
+                    "amount": 10000
+                },
+                {
+                    "category": "Food",
+                    "amount": 15000
+                },
+                {
+                    "category": "Shopping",
+                    "amount": 15000
+                }
+            ]
+        }
+    ]
+}
