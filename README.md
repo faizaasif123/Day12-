@@ -73,6 +73,12 @@ The Gemini API key is stored in an environment variable and is not included in t
 
 ---
 
+# API
+
+## Endpoint
+
+```text
+POST /chat
 
 Input Format
 {
@@ -267,12 +273,3 @@ Application
   ↓
 User
 The detailed architecture is available in architecture.md.
-
-
-# API
-
-## Endpoint
-
-```text
-POST /chat
-
